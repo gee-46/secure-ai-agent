@@ -1,0 +1,10 @@
+streamlit>=1.38,<2.0
+cryptography>=43.0,<44.0
+scikit-learn>=1.5,<1.6
+joblib>=1.4,<2.0
+argon2-cffi>=23.1,<24.0
+python-dotenv>=1.0,<2.0
+plotly>=5.24,<6.0
+pandas>=2.2,<3.0
+pypdf>=4.3,<5.0
+pytest>=8.3,<9.0
